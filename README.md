@@ -33,8 +33,8 @@ Lance l’application :
 ------
 
 ### Windows
+Non disponible
 
-... ARRIVE BIENTÔT
 ------
 
 ## Configuration
