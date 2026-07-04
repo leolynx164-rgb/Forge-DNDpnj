@@ -16,7 +16,7 @@ Une simple application Electron pour créer des PNJ D&D grâce à l’IA.
 ### Linux
 
 Télécharge le fichier AppImage ici :
- [Forge.du.PNJ-1.0.0.AppImage](https://github.com/leolynx164-rgb/DNDpnj/releases/download/untagged-7bfb17907032eed3ad05/)
+ [Forge.du.PNJ-1.0.0.AppImage](https://github.com/leolynx164-rgb/Forge-DNDpnj/releases/download/linux/Forge.du.PNJ-1.0.0.AppImage)
 
 Rends le fichier exécutable :
 
@@ -34,10 +34,7 @@ Lance l’application :
 
 ### Windows
 
-Version BETA disponible ici [windows D&D FORGE BETA](https://github.com/leolynx164-rgb/Forge-DNDpnj/releases/download/untagged-9d57ca2d61893bb36eba/Forge.du.PNJ.Setup.1.0.0.exe)
-
-Plus de détail ici : https://github.com/leolynx164-rgb/Forge-DNDpnj/releases/tag/untagged-9d57ca2d61893bb36eba
-
+... ARRIVE BIENTÔT
 ------
 
 ## Configuration
